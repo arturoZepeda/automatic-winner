@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import Profile from './components/Profile.vue';
 import NavBar from './components/NavBar.vue';
+import Experiencia from './components/Experiencia.vue';
 </script>
 
 <template>
   <NavBar/>
   <Profile/>
+  <Experiencia/>
 </template>
 
 <style scoped>
